@@ -6,3 +6,6 @@ SpaceX_Launches.ipynb: data collection (SpaceX API, Web scraping) -> data wrangl
 
 
 SpaceX Launch Dash 2.ipynb: Dashboard (Plotly - Dash / Jupyter-dash) of interactive visualization of first stage landing success rate and potentially impportant features that contribute to landing success prediction
+
+
+pdf file: result presentation and summary
